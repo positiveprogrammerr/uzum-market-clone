@@ -1,4 +1,4 @@
-# uzum_clone
+# Uzum clone
 
 A new Flutter project.
 
